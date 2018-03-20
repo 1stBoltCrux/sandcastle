@@ -1,0 +1,13 @@
+.test1 {
+  display: none;
+}
+
+.test2 {
+  display: none;
+}
+
+.clickable {
+  cursor: pointer;
+  text-decoration: underline;
+  color: blue;
+}
